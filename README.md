@@ -1,5 +1,3 @@
-# DreamColoc
-
 ### Story
 1. J'habitait avec des personnes en colocations
 2. Espaces communs
@@ -8,11 +6,7 @@
 6. Je les comprends tout à fait
 7. J'étais pas un bon colocataires
 
-### Problème
-
-`épanouissement` `ambiance`
-
-### Solution
+### Solution DreamColoc
 `matching` `logement`
 `style-de-vie` `intérêts`
 
@@ -23,3 +17,4 @@
 `aventures` 
 `souvenirs`
 
+*Partager un appart, c'est aussi partager une partie de sa vie*
