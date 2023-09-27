@@ -13,12 +13,13 @@
 `épanouissement` `ambiance`
 
 ### Solution
-`matching`
-`style-de-vie` `intérêts` `préférences`
+`matching` `logement`
+`style-de-vie` `intérêts`
 
 ### La Conclusion
 `logement-parfait`
 `amitiés` 
+`partagé`
 `aventures` 
 `souvenirs`
-`partagés`
+
