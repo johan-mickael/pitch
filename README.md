@@ -4,7 +4,7 @@
 3. Jeune / Profiter / Sortir / Rentrer tard / Faire du bruit.
 4. Problèmes / Embrouilles
 6. Je les comprends tout à fait
-7. J'étais pas un bon colocataires
+7. J'étais pas un bon coloc
 
 ### Solution DreamColoc
 `matching` `logement`
