@@ -17,4 +17,4 @@
 `aventures` 
 `souvenirs`
 
-*Partager un appart, c'est aussi partager une partie de sa vie*
+*"Partager un appart, c'est aussi partager une partie de sa vie"*
